@@ -1,0 +1,19 @@
+{
+  "name": "sick-fits-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storiaca/sick-fits-wb.git"
+  },
+  "author": "Aleksandar Ristic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/storiaca/sick-fits-wb/issues"
+  },
+  "homepage": "https://github.com/storiaca/sick-fits-wb#readme"
+}
